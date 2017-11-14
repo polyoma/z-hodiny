@@ -1,0 +1,11 @@
+git init - zaène sledovat složku
+git status - informace o složce a zmìnach
+git add name_of_file.abc - zaène sledovat daný soubor
+git gui - spustí git gui, který je uživatelsky pøátelský a nepotøebuje ovládání pøes pøíkazovou øádku. 
+git commit -m "co se zmìnilo"
+git config --global user.name "jmeno"
+git config -- global user.email "email" 
+git log - vypíše info zmìn
+gitk - zapne gitk, další prohlížecí program
+když se v pøíkazovém øádku dostaneme do qit commit -> textový editor, tak se dá utéct esc (prepne na písmenka): q
+.gitignore - soubor do kterého mùžu napsat vše co chceme aby git ignoroval. staèí psát i èásti napø. *recept
